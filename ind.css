@@ -73,7 +73,7 @@ height:330px;
     top:0px;
     left:0px;
     z-index:-1;
-    height:75%;
+    height:68%;
     width:100%;
     opacity:0.89;
 }
@@ -101,7 +101,6 @@ height:330px;
 
 .services-con h1{
     text-align: center;
-    color:red;
     font-size:2.5rem;
 }
 
